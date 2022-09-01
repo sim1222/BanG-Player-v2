@@ -14,13 +14,14 @@ const proxyList = [
   {
     label: 'direct',
     value: 'https://bestdori.com',
-    proxy: false
+    proxy: true,
+    prefer: ['ja-jp']
   },
   {
     label: 'fr',
     value: 'https://bestdori.bangplayer.live',
     proxy: true,
-    prefer: ['en-us', 'ja-jp']
+    prefer: ['en-us']
   },
   {
     label: 'cn3',
