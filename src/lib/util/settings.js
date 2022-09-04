@@ -13,7 +13,7 @@ const backgroundList = ['skin', 'challenge', 'gbp2020', 'vs', 'persona', 'cafe',
 const proxyList = [
   {
     label: 'direct',
-    value: 'https://api.bang.sim1222.xyz',
+    value: 'https://api-best.sim1222.workers.dev',
     proxy: true,
     prefer: ['ja-jp']
   },
